@@ -1,0 +1,24 @@
+.login{
+    text-align: center;
+    color: #fff;
+}
+.login h1{
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin: .75rem 0;
+}
+.loginForm *{
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+}
+.loginForm input::placeholder{
+    padding-left: 1rem;
+}
+.loginBtn{
+    background: crimson;
+    color: #000;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,41 @@
+.message{
+    color: #fff;
+    padding: 1rem 1rem 0;
+}
+.messageTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+.logout{
+    color: crimson;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
+.firstLetter{
+    background: crimson;
+    display: inline-block;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    margin-right: .5rem;
+}
+.messageInput{
+    width: 100%;
+    padding-bottom: 4rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+.msgBtn{
+    background: crimson;
+    color: #fff;
+    padding: .5rem;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+}
